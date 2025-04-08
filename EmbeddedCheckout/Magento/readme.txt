@@ -1,1 +1,1 @@
-This contains the most recent version of our magento plugin (coming soon)
+This contains the most recent version of our magento plugin
